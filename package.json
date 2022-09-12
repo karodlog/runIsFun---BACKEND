@@ -1,0 +1,19 @@
+{
+  "name": "runisfun-back",
+  "version": "1.0.0",
+  "description": "projet de fin de formation INTERFACE3 NAMUR",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "jeanluc",
+  "license": "ISC",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "express-async-errors": "^3.1.1",
+    "mongoose": "^6.6.0",
+    "nodemon": "^2.0.19"
+  }
+}
