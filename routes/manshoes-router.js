@@ -12,7 +12,9 @@ manshoesRouter.route("/")
     .post(bodyValidation(manshoesValidator),manshoesController.create)
 
 manshoesRouter.route("/:id")
-    .get(idValidator(), manshoesController.getById);
+    .get(idValidator(), manshoesController.getById)
+    .put(bodyValidation(manshoesValidator), manshoesController.update)
+    .delete(manshoesController.delete)
 
 
     
