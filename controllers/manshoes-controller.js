@@ -18,6 +18,11 @@ const manshoesController = {
         else{
             return res.sendStatus(404);
         }
+    },
+    create: async(req, res)=>{
+        const manshoesToAdd = Manshoes(req.body);
+        await manshoesToAdd.save();
+        res.status(200).json(manshoesToAdd);
     }
 }
 

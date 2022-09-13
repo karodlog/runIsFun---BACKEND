@@ -44,7 +44,7 @@ const mansshoesSchema = new Schema({
     promo:{
         type: String,
         required: true,
-        enum: ['new', 'discount', 'good deal']
+        enum: ['new', 'discount', 'goodDeal']
     },
     barredPrice:{
         type: String,
