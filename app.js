@@ -20,6 +20,11 @@ const router = require('./routes');
 const app = express();
 
 
+//! décommenter les 2 lignes ci-dessous
+// const cors = require('cors')
+// app.use(cors())
+
+//! penser à rajouter la librairie CORS
 
 
 //notre premier middleware pour permettre à notre serveur de lire les objets .json en post
@@ -28,7 +33,6 @@ app.use(express.json());
 
 // interception de chaque requête AVANT d'utiliser le middleware qui dispatch vers nos routes
 app.use(async(req, res, next)=>{
-    console.log(DB_CONNECTION);
     await mongoose.connect(DB_CONNECTION);
     console.log('connection réussie');
     next();
@@ -41,3 +45,5 @@ app.use('/api', router);
 app.listen(PORT, ()=>{
     console.log(`Listening on port ${PORT}, ${MESSAGE}`);
 })
+
+
