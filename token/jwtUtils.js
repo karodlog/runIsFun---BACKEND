@@ -1,7 +1,6 @@
 const jwt = require('jsonwebtoken');
 
 const { JWT_AUDIENCE, JWT_ISSUER, JWT_SECRET } = process.env;
-console.log(JWT_SECRET);
 
 const jwtUtils = {
     //Fonction pour générer un token

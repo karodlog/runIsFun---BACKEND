@@ -21,8 +21,8 @@ const app = express();
 
 
 //! décommenter les 2 lignes ci-dessous
-// const cors = require('cors')
-// app.use(cors())
+const cors = require('cors')
+app.use(cors())
 
 //! penser à rajouter la librairie CORS
 
