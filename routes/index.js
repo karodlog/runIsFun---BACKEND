@@ -9,6 +9,7 @@ const router = require('express').Router();
 
 //on crée toutes les routes
 router.use('/manshoes', manshoesRouter);
+router.use('/womanshoes');
 
 router.use('/auth',authRouter)
 router.use('/customer', customerRouter)
