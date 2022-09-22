@@ -20,11 +20,9 @@ const router = require('./routes');
 const app = express();
 
 
-//! décommenter les 2 lignes ci-dessous
 const cors = require('cors')
 app.use(cors())
 
-//! penser à rajouter la librairie CORS
 
 
 //notre premier middleware pour permettre à notre serveur de lire les objets .json en post

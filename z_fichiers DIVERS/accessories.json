@@ -1,0 +1,140 @@
+[
+  {
+    "type": "GPS",
+    "name": "Montana 700i",
+    "brand": "Garmin",
+    "price": "749.00 €",
+    "picture": "https://images2.imgbox.com/f2/ae/3PBmP8ww_o.png",
+    "description": "Découvrez les fonctionnalités du GPS portable Garmin Montana 700i et profitez pleinement de vos activités outdoor. À vélo, à pied ou en quad, il suit vos aventures les plus extrêmes sans faillir.",
+    "waterproofing": "IPX7",
+    "autonomy": "18 heures en mode GPS et jusqu'à 330 heures en mode Expédition",
+    "weather": " service de prévisions météorologiques"
+  },
+  {
+    "type": "watch",
+    "name": "Pro Trek PRW-61Y-3ER",
+    "brand": "Casio",
+    "price": "399.00 €",
+    "picture": "https://images2.imgbox.com/45/07/IxgM9WE8_o.png",
+    "description": "La montre Casio Pro Trek PRW-61Y-3ER met sa fiabilité à votre service lors de toutes vos expériences outdoor. Polyvalente et robuste, elle s'affirme comme une partenaire de choix à chacune de vos aventures.",
+    "chrono": true,
+    "compass": "indique le nord magnétique",
+    "altimeter": "information sur l'altitude et le dénivelé total parcouru",
+    "waterproofing": "10 bars"
+  },
+  {
+    "type": "watch",
+    "name": "Pro Trek PRW-61-1AER",
+    "brand": "Casio",
+    "price": "389.00 €",
+    "picture": "https://images2.imgbox.com/47/00/7ow69jro_o.png",
+    "description": "La montre Casio Pro Trek PRW-61-1AER met sa fiabilité à votre service lors de toutes vos expériences outdoor. Polyvalente et robuste, elle s'affirme comme une partenaire de choix à chacune de vos aventures.",
+    "chrono": true,
+    "compass": "indique le nord magnétique",
+    "altimeter": "information sur l'altitude et le dénivelé total parcouru",
+    "waterproofing": "10 bars"
+  },
+  {
+    "type": "watch",
+    "name": "Rangeman 9400",
+    "brand": "Casio",
+    "price": "299.00 €",
+    "picture": "https://images2.imgbox.com/9b/4a/K6g4vwyM_o.png",
+    "description": "La Montre Casio Rangeman 9400 de la gamme G-Shock Mudmaster allie allure sportive et résistance extrême contre les vibrations et les chocs pouvant subvenir pendant votre activité sportive. Sa fonction radio-pilotage s'ajuste au fuseau horaire local pour vous permettre de disposer de l'heure exacte à tout moment.",
+    "chrono": false,
+    "compass": "indique le nord magnétique",
+    "altimeter": "information sur l'altitude et le dénivelé total parcouru",
+    "waterproofing": "10 bars"
+  },
+  {
+    "type": "watch",
+    "name": "Pro Trek PRT-B70-1ER",
+    "brand": "Casio",
+    "price": "219.00 €",
+    "picture": "https://images2.imgbox.com/a5/0b/99o6i314_o.png",
+    "description": "La montre Casio Pro Trek PRT-B70-1ER met toutes ses capacités à votre service pour des sessions outdoor dans des dispositions optimales. Sa grande polyvalence en fait un atout de choix lors de vos sorties.",
+    "chrono": true,
+    "compass": "indique le nord magnétique",
+    "altimeter": "information sur l'altitude et le dénivelé total parcouru",
+    "waterproofing": "20 bars"
+  },
+  {
+    "type": "watch",
+    "name": "PRG-270",
+    "brand": "Casio",
+    "price": "199.00 €",
+    "picture": "https://images2.imgbox.com/22/a3/0KtUaevj_o.png",
+    "description": "La Montre Casio PRG-270 de la gamme Pro Trek associe un design sportif à des fonctionnalités intuitives et étendues. Son affichage numérique vous permet de disposer des informations essentielles en un seul coup d'oeil.",
+    "chrono": false,
+    "compass": "orientation facilitée",
+    "altimeter": " calcul de l'altitude actuelle, cumul et différenciel",
+    "waterproofing": "natation jusqu'à 10 bars"
+  },
+  {
+    "type": "watch",
+    "name": "G-SHOCK GBA-900SM-7A9ER",
+    "brand": "Casio",
+    "price": "129.00 €",
+    "picture": "https://images2.imgbox.com/c0/73/fQrq52ru_o.png",
+    "description": "Idéale pour vos sessions outdoor, la montre Casio G-SHOCK GBA-900SM-7A9ER sait se rendre indispensable. Fière d'une grande polyvalence, elle vous accompagne à chacune de vos aventures.",
+    "waterproofing": "20 bars"
+  },
+  {
+    "type": "watch",
+    "name": "G-SHOCK GBD-100-9ER",
+    "brand": "Casio",
+    "price": "149.00 €",
+    "picture": "https://images2.imgbox.com/f4/45/IIc1Qx5t_o.png",
+    "description": "Pensée pour la pratique sportive, la montre Casio G-SHOCK GBD-100-9ER suit vos activités tout au long de la journée. Réputée pour sa solidité, elle est une partenaire de choix au quotidien.",
+    "chrono": true,
+    "compass": "orientation facilitée",
+    "altimeter": " calcul de l'altitude actuelle, cumul et différenciel",
+    "waterproofing": "20 bars"
+  },
+  {
+    "type": "watch",
+    "name": "G-SHOCK GBD-100-2ER",
+    "brand": "Casio",
+    "price": "149.00 €",
+    "picture": "https://images2.imgbox.com/2d/27/Ybf1aJaY_o.png",
+    "description": "Pensée pour la pratique sportive, la montre Casio G-SHOCK GBD-100-2ER suit vos activités tout au long de la journée. Réputée pour sa solidité, elle est une partenaire de choix au quotidien.",
+    "chrono": true,
+    "compass": "orientation facilitée",
+    "altimeter": " calcul de l'altitude actuelle, cumul et différenciel",
+    "waterproofing": "20 bars"
+  },
+  {
+    "type": "GPS",
+    "name": "inReach Mini 2",
+    "brand": "Garmin",
+    "price": "399.00 €",
+    "picture": "https://images2.imgbox.com/68/8f/FGVZ4BTf_o.png",
+    "description": "Polyvalent et facile à transporter au sein de votre équipement outdoor, le GPS de randonnée Garmin inReach Mini 2 se rend rapidement indispensable. Sa fiabilité vous permet d'aborder sereinement chacune de vos aventures.",
+    "waterproofing": "IPX7",
+    "autonomy": "14 jours pour le mode de suivi par intervalles de 10 minutes et 24 jours en économie d'énergie",
+    "weather": " service de prévisions météorologiques"
+  },
+  {
+    "type": "GPS",
+    "name": "inReach Mini 2",
+    "brand": "Garmin",
+    "price": "399.00 €",
+    "picture": "https://images2.imgbox.com/45/28/1uajtIDm_o.png",
+    "description": "Polyvalent et facile à transporter au sein de votre équipement outdoor, le GPS de randonnée Garmin inReach Mini 2 se rend rapidement indispensable. Sa fiabilité vous permet d'aborder sereinement chacune de vos aventures.",
+    "waterproofing": "IPX7",
+    "autonomy": "14 jours pour le mode de suivi par intervalles de 10 minutes et 24 jours en économie d'énergie",
+    "weather": " service de prévisions météorologiques"
+  },
+  {
+    "type": "watch",
+    "name": "G-SHOCK GA-900C-1A4ER",
+    "brand": "Casio",
+    "price": "249.00 €",
+    "picture": "https://images2.imgbox.com/84/a7/IBAX8ARo_o.png",
+    "description": "Partez l'esprit serein lors de vos sessions outdoor avec la montre Casio G-SHOCK GA-900C-1A4ER. Polyvalente et pensée pour durer, elle vous accompagne de manière irréprochable à chacun de vos périples.",
+    "chrono": false,
+    "compass": "orientation facilitée",
+    "altimeter": " calcul de l'altitude actuelle, cumul et différenciel",
+    "waterproofing": "10 bars"
+  }
+]
