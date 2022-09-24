@@ -17,7 +17,7 @@ const authController = {
         }
 
         const token = await jwtUtils.generate(customer);
-        return res.json({token, firstname:customer.firstname});
+        return res.json({token, firstname: customer.firstname});
     },
 
     register: async (req, res)=>{
