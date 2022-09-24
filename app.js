@@ -33,6 +33,7 @@ app.use(express.json());
 
 // interception de chaque requête AVANT d'utiliser le middleware qui dispatch vers nos routes
 app.use(async(req, res, next)=>{
+    console.log('poero');
     await mongoose.connect(DB_CONNECTION);
     console.log('connection réussie');
     next();

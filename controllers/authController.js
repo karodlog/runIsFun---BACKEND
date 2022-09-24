@@ -17,7 +17,7 @@ const authController = {
         }
 
         const token = await jwtUtils.generate(customer);
-        return res.json({token});
+        return res.json({token, firstname:customer.firstname});
     },
 
     register: async (req, res)=>{
@@ -34,7 +34,7 @@ const authController = {
         });
         await customerToInsert.save();
         const token = await jwtUtils.generate(customerToInsert);
-        return res.json({token});
+        return res.json({token, firstname});
 
     }
 }
